@@ -1,0 +1,23 @@
+Nmap Scan Report
+
+Target IP: 192.168.1.11
+
+Open Ports:
+21/tcp   - FTP
+22/tcp   - SSH
+23/tcp   - Telnet
+80/tcp   - HTTP
+445/tcp  - SMB
+
+Service Version Detection:
+FTP - vsftpd 2.3.4
+HTTP - Apache 2.2.8
+
+OS Detection:
+Linux Kernel 2.6.x
+
+Scan Type:
+TCP SYN Scan (-sS)
+UDP Scan (-sU)
+Version Detection (-sV)
+OS Detection (-O)

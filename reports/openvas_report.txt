@@ -1,0 +1,19 @@
+OpenVAS Vulnerability Report
+
+Target: Metasploitable2
+
+Critical:
+- Backdoor vulnerability in vsftpd
+
+High:
+- SMB vulnerabilities
+- Weak SSH configuration
+
+Medium:
+- Outdated Apache server
+
+Low:
+- Information disclosure
+
+Summary:
+System is highly vulnerable and should not be used in production.
